@@ -20,7 +20,7 @@ Bu proje, Hepsiburada'daki ürünlerin fotoğraflarını çekmek için bir Selen
 
 ## Kurulum
 
-- `pip install selenium beautifulsoup4` ile gerekli kütüphaneleri yükleyin.
+- `pip install selenium bs4` ile gerekli kütüphaneleri yükleyin.
 - `chromedriver.exe` dosyasını projeye ekleyin.
 
 ## Kullanım
